@@ -1,4 +1,4 @@
-# Brain Tumor Detection using CNN
+# Brain Tumor Detection using Deep Learning
 
 **Independent Evaluator & Optimizer:** Sarthak Ganesh Sabban  
 **Base Structural Repository:** MandarDhamale/brain-tumor-detection  
